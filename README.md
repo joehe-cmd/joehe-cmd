@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me no
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: when i was young i put fire on xmas tree
 
 <!---
 joehe-cmd/joehe-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
