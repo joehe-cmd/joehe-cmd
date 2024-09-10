@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @joehe-cmd
+## 👋 Hi, I’m JoeHe
 - 👀 I’m into: Python, gaming, drawings, comics, cartoons, anime, music, and all things fun!
 - 🌱 Currently learning Python and always looking for new ways to challenge myself.
 - 💞️ I’m on a quest of self-improvement and leveling up my skills.
